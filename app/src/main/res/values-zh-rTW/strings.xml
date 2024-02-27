@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ws54_compose_prac1</string>
+    <string name="current_location" translatable="false">台中</string>
+    <string name="feels_like">體感溫度</string>
+    <string name="sunny">晴朗</string>
+    <string name="light_rain">小雨</string>
+    <string name="middle_rain">中雨</string>
+    <string name="heavy_rain">大雨</string>
+    <string name="a_little_cloudy">有一些雲</string>
+    <string name="cloudy">多雲的</string>
+    <string name="weather_in_ten_days" translatable="false">十天內天氣預測</string>
+    <string name="hourly_weather" translatable="false">每小時天氣狀況</string>
+    <string name="NavDrawerContent_home" translatable="false">主畫面</string>
+    <string name="NavDrawerContent_region" translatable="false">地區頁面</string>
+    <string name="maps">地區</string>
+    <string name="taipei">台北</string>
+    <string name="yee">欸不是</string>
+    <string name="ayo">欸yo</string>
+    <string name="testcity">測試城市</string>
+    <string name="add_a_region" translatable="false">添加一個地區</string>
+</resources>

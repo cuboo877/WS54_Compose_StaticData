@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ws54_compose_prac1</string>
+    <string name="current_location" translatable="false">Taichung</string>
+    <string name="feels_like" translatable="false">feels like</string>
+    <string name="sunny" translatable="false">sunny</string>
+    <string name="light_rain" translatable="false">light rain</string>
+    <string name="middle_rain" translatable="false">middle rain</string>
+    <string name="heavy_rain" translatable="false">heavy rain</string>
+    <string name="a_little_cloudy" translatable="false">a little cloudy</string>
+    <string name="cloudy" translatable="false">cloudy</string>
+    <string name="weather_in_ten_days" translatable="false">Weather In Ten Days</string>
+    <string name="hourly_weather" translatable="false">Hourly Weather</string>
+    <string name="NavDrawerContent_home" translatable="false">Home</string>
+    <string name="NavDrawerContent_region" translatable="false">Region</string>
+    <string name="maps" translatable="false">Maps</string>
+    <string name="taipei" translatable="false">Taipei</string>
+    <string name="yee" translatable="false">Yee</string>
+    <string name="ayo" translatable="false">Ayo</string>
+    <string name="testcity" translatable="false">TestCity</string>
+    <string name="add_a_region" translatable="false">Add a region</string>
+</resources>
